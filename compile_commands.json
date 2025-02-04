@@ -1,0 +1,82 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-g",
+      "-Iinclude",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/color.o",
+      "src/color.c"
+    ],
+    "directory": "/home/daniel/projects/piet_interpreter",
+    "file": "/home/daniel/projects/piet_interpreter/src/color.c",
+    "output": "/home/daniel/projects/piet_interpreter/obj/color.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-g",
+      "-Iinclude",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/dfs.o",
+      "src/dfs.c"
+    ],
+    "directory": "/home/daniel/projects/piet_interpreter",
+    "file": "/home/daniel/projects/piet_interpreter/src/dfs.c",
+    "output": "/home/daniel/projects/piet_interpreter/obj/dfs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-g",
+      "-Iinclude",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/image.o",
+      "src/image.c"
+    ],
+    "directory": "/home/daniel/projects/piet_interpreter",
+    "file": "/home/daniel/projects/piet_interpreter/src/image.c",
+    "output": "/home/daniel/projects/piet_interpreter/obj/image.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-g",
+      "-Iinclude",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/daniel/projects/piet_interpreter",
+    "file": "/home/daniel/projects/piet_interpreter/src/main.c",
+    "output": "/home/daniel/projects/piet_interpreter/obj/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-g",
+      "-Iinclude",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/stack.o",
+      "src/stack.c"
+    ],
+    "directory": "/home/daniel/projects/piet_interpreter",
+    "file": "/home/daniel/projects/piet_interpreter/src/stack.c",
+    "output": "/home/daniel/projects/piet_interpreter/obj/stack.o"
+  }
+]
